@@ -1,0 +1,28 @@
+
+h1{
+	color: green;
+}
+
+.border{
+	border: 3px dotted; green;
+}
+
+#bg{
+	background-color: lightskyblue;
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+}
+
+.red{
+	background-color: red;
+}
+
+.black{
+	background-color: black;
+	border: 10px solid darkseagreen;
+	}
+
+
